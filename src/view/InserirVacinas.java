@@ -2,7 +2,6 @@ package view;
 
 import java.util.Scanner;
 
-import model.Animal;
 import model.Vacinas;
 
 public class InserirVacinas {
